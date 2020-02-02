@@ -25,7 +25,7 @@ make test
 ## Authors
 
 * **Connor Easton**  - [Eastonco](https://github.com/Eastonco)
-* **Aaron Crandal**  - [Dr. Crandal](https://school.eecs.wsu.edu/people/faculty/aaron-crandall/)
+* **Aaron Crandall**  - [Dr. Crandall](https://school.eecs.wsu.edu/people/faculty/aaron-crandall/)
 
 
 ## Acknowledgments
