@@ -2,7 +2,7 @@
 
 All assignemnts and projects from Cpt_s 223 Data Structures class taken Spring 2019 at WSU
 
-##Dependencies
+## Dependencies
 * Google Test 
 * Google Mock
 
