@@ -2,6 +2,9 @@
 
 All assignemnts and projects from Cpt_s 223 Data Structures class taken Spring 2019 at WSU
 
+##Dependencies
+* Google Test 
+* Google Mock
 
 ## Running the program 
 Here's a list of handy commands, to build, navigate to the determined project you want to build and run
