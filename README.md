@@ -1,5 +1,33 @@
-# assignments
+# Cpt_s 223
 
-Assignments base repo for students to begin implementing their work from. This repo is essentially forked to the students for their projects.
+All assignemnts and projects from Cpt_s 223 Data Structures class taken Spring 2019 at WSU
 
-TODO: include GitLab pages information to show assignment progress here
+
+## Running the program 
+Here's a list of handy commands, to build, navigate to the determined project you want to build and run
+
+```
+make build
+```
+
+to run
+
+```
+make run
+```
+or 
+```
+make test
+```
+
+
+
+## Authors
+
+* **Connor Easton**  - [Eastonco](https://github.com/Eastonco)
+* **Aaron Crandal**  - [Dr. Crandal](https://school.eecs.wsu.edu/people/faculty/aaron-crandall/)
+
+
+## Acknowledgments
+
+*Thanks WSU and professor Aaron Crandal
