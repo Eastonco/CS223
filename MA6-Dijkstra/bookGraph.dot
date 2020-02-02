@@ -1,0 +1,15 @@
+digraph {
+		0;
+		1 -> 2 [label="2", weight="2"];
+		1 -> 4 [label="1", weight="1"];
+		2 -> 4 [label="3", weight="3"];
+		2 -> 5 [label="10", weight="10"];
+		3 -> 1 [label="4", weight="4"];
+		3 -> 6 [label="5", weight="5"];
+		4 -> 3 [label="2", weight="2"];
+		4 -> 5 [label="2", weight="2"];
+		4 -> 6 [label="8", weight="8"];
+		4 -> 7 [label="4", weight="4"];
+		5 -> 7 [label="6", weight="6"];
+		7 -> 6 [label="1", weight="1"];
+	}
